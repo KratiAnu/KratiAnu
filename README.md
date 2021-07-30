@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi everyone!
+🌱 I’m currently learning about the best software programming practices.
+💬Ask me about software engineering and Machine Learning.
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
