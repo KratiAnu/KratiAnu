@@ -1,8 +1,8 @@
 <h1><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="30"/> Hi everyone!</h1> 
 
-<p>Welcome to my page! </br> I'm Anukriti, AI and Software Enthusiast from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Guna, India</b>, currently studying at <b>IIT Dhanbad, India</b>. </p>
+<p>Welcome to my page! </br> I'm Anukriti , AI and Software Enthusiast from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Guna, India</b>, currently studying at <b>IIT Dhanbad, India</b>. </p>
 
-<p>🌱 I’m currently learning about the best software programming practices.</br>💬Ask me about anything would love to help.</p>
+<p>🌱 I’m currently learning about the best software programming practices.</p>
 
 <h3>I love to code in</h3>
 <p>
@@ -17,6 +17,7 @@
   <img alt="PySerial" src="https://avatars.githubusercontent.com/u/10537924?s=280&v=4" width="60">
 </p>
 
+<p>💬Ask me about anything would love to connect and help.</p>
 
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
