@@ -16,8 +16,8 @@
   <img alt="NLTK" src="https://global-uploads.webflow.com/5d3ec351b1eba4332d213004/5ec645ccd0d5ff3da33ec726_python_nltk.png" width="60">
   <img alt="PySerial" src="https://avatars.githubusercontent.com/u/10537924?s=280&v=4" width="60">
 </p>
-
 <p>💬Ask me about anything would love to connect and help.</p>
+
 
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
