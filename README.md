@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-<p>I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Guna, India</b>, currently studying at <b>IIT Dhanbad, India</b>. </p>
-<p>🌱 I’m currently learning about the best software practices.</p>
+ - I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Guna, India</b>, currently studying at <b>IIT Dhanbad, India</b>.
+ - I’m currently learning about the best software practices.</p>
 
 ### My Experiences 🙌
 - [Product Develpment Intern (Adobe)] - (May'21 - Jul'21)
