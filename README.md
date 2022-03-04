@@ -68,10 +68,7 @@ Here are some ideas to get you started:
 ![Anukriti's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KratiAnu&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupers
-
+<p>💬Ask me about anything would love to connect and help.</p>
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
