@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 - [UberShe++ 2020 Attendee] - (Apr'20)
 - [Mentor at RoboISM - Robotics and Artificial Intelligence Club] - (Sep'18 - Present) 
 
-![Anukriti's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Anukriti's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Anukriti's github stats](https://github-readme-stats.vercel.app/api?username=KratiAnu&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Anukriti's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KratiAnu&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
