@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ### Socials - Let's Get connected 👯
 
 <a href="https://www.linkedin.com/in/anukriti-rawat-10667a180/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  color=white/>
 </a>
 <a href="https://twitter.com/isupersky">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
