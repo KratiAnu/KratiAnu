@@ -41,11 +41,22 @@ Here are some ideas to get you started:
 - [Engage Mentee (Microsoft)](https://www.microsoft.com/en-in) - (Nov'21 - Dec'21)
 - [Mentor at RoboISM - Robotics and Artificial Intelligence Club](https://roboism.in/) - (Sep'18 - Present) 
 
+### My skills : 
+ - **Languages** :  C/C++, Python
+ - **Frameworks**: OpenCV, Pandas, Numpy, Keras
+ - **Beginner**:  Tensorflow, NLTK (for Natural Language Processing),  Flask, HTML, CSS
+ - **OS Platforms**: Windows, macOS
+
 ### My Github Stats :
 
 ![Anukriti's github stats](https://github-readme-stats.vercel.app/api?username=KratiAnu&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Anukriti's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KratiAnu&layout=compact&langs_count=8&hide_border=true)
 <br />
+
+### My interests🌱
+- Sketching and painting
+- Internet Surfing
+- Watching Sports (Cricket Lover)
+- Coding
 
 <p>💬Ask me about anything would love to connect and help.</p>
 <!--
