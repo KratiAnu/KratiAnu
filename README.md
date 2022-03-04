@@ -37,11 +37,9 @@ Here are some ideas to get you started:
  - I’m currently learning about the best software practices.</p>
 
 ### My Experiences 🙌
-- [Product Develpment Intern (Adobe)] - (May'21 - Jul'21)
-- [Microsoft Engage Mentee] - (Nov'21 - Dec'21)
-- [Google Solve.Code Attendee] - (Sep'21)
-- [UberShe++ 2020 Attendee] - (Apr'20)
-- [Mentor at RoboISM - Robotics and Artificial Intelligence Club] - (Sep'18 - Present) 
+- [Product Develpment Intern (Adobe)](https://www.adobe.com/in/) - (May'21 - Jul'21)
+- [Engage Mentee (Microsoft)](https://www.microsoft.com/en-in) - (Nov'21 - Dec'21)
+- [Mentor at RoboISM - Robotics and Artificial Intelligence Club](https://roboism.in/) - (Sep'18 - Present) 
 
 ### My Github Stats :
 
