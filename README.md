@@ -34,7 +34,11 @@ Here are some ideas to get you started:
 
 ### About Me 🚀
  - I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Hyderabad, India</b>, currently working as a Software Engineer at <b>Microsoft, India</b>.
- - I work in the Bing Autosuggest team primarily as a Backend Engineer. I play and code with C#, scope, python everyday. I love tackling challenges and deep diving into things, inherently curious:). I like to look at the bigger picture rather than just completing anything. I am on the path to be a <b>pragmmatic engineer</b>. I love building products and experiences, and always on the lookout to make something useful. I am an ardent cricket and F1 Fan. I love travelling and exploring new places.</p>
+ - I work in the Bing Autosuggest team primarily as a Backend Engineer. I play and code with C#, scope, python everyday.
+ - I love tackling challenges and deep diving into things, inherently curious:). I like to look at the bigger picture rather than just completing anything.
+ - I am on the path to be a <b>Pragmmatic Programmer</b>.
+ - I love building products and experiences, and always on the lookout to make something useful.
+ - I am an ardent cricket and F1 Fan. I love travelling and exploring new places.</p>
 
 ### My Experiences 🙌
 - [Sodtware Engineer (Microsoft)](https://www.microsoft.com/en-in/) - (July'22 - Present)
@@ -58,6 +62,7 @@ Here are some ideas to get you started:
 - Internet Surfing (Love to explore random things)
 - Watching Sports (Cricket & F1 Lover)
 - Coding
+- Poetry Writing
 
 <p>💬Ask me about anything would love to connect and help.</p>
 <!--
