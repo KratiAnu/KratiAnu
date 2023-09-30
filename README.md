@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
- - I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Hyderabad, India</b>, currently working as a Software Engineer at <b>Microsoft, India</b>.
+ - I am Software Engineer from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Hyderabad, India</b>, currently working at <b>Microsoft, India</b>.
  - I work in the Bing Autosuggest team primarily as a Backend Engineer. I play and code with C#, scope, python everyday.
  - I love tackling challenges and deep diving into things, inherently curious:). I like to look at the bigger picture rather than just completing anything.
  - I am on the path to be a <b>Pragmatic Programmer</b>.
