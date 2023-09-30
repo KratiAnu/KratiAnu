@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - Coding
 - Poetry Writing
 
-<p>💬Ask me about anything would love to connect and help.</p>
+<p>💬Ask me about anything would love to connect.</p>
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
