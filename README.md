@@ -33,18 +33,19 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
- - I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Guna, India</b>, currently studying at <b>IIT Dhanbad, India</b>.
- - I’m currently learning about the best software practices.</p>
+ - I am a software developer, from <img src="https://img.icons8.com/emoji/50/000000/india-emoji.png" width="13"/> <b>Hyderabad, India</b>, currently working as a Software Engineer at <b>Microsoft, India</b>.
+ - I work in the Bing Autosuggest team primarily as a Backend Engineer. I play and code with C#, scope, python everyday. I love tackling challenges and deep diving into things, inherently curious:). I like to look at the bigger picture rather than just completing anything. I am on the path to be a <b>pragmmatic engineer</b>. I love building products and experiences, and always on the lookout to make something useful. I am an ardent cricket and F1 Fan. I love travelling and exploring new places.</p>
 
 ### My Experiences 🙌
+- [Sodtware Engineer (Microsoft)](https://www.microsoft.com/en-in/) - (July'22 - Present)
 - [Product Develpment Intern (Adobe)](https://www.adobe.com/in/) - (May'21 - Jul'21)
 - [Engage Mentee (Microsoft)](https://www.microsoft.com/en-in) - (Nov'21 - Dec'21)
-- [Mentor at RoboISM - Robotics and Artificial Intelligence Club](https://roboism.in/) - (Sep'18 - Present) 
+- [Mentor at RoboISM - Robotics and Artificial Intelligence Club](https://roboism.in/) - (Sep'18 - Apr'22) 
 
 ### My skills : 
- - **Languages** :  C/C++, Python
+ - **Languages** :  C/C++, Python, C#
  - **Frameworks**: OpenCV, Pandas, Numpy, Keras
- - **Beginner**:  Tensorflow, NLTK (for Natural Language Processing),  Flask, HTML, CSS
+ - **Beginner**:  Tensorflow, NLTK (for Natural Language Processing),  Flask, HTML, CSS, Javascript
  - **OS Platforms**: Windows, macOS
 
 ### My Github Stats :
@@ -54,8 +55,8 @@ Here are some ideas to get you started:
 
 ### My interests🌱
 - Sketching and painting
-- Internet Surfing
-- Watching Sports (Cricket Lover)
+- Internet Surfing (Love to explore random things)
+- Watching Sports (Cricket & F1 Lover)
 - Coding
 
 <p>💬Ask me about anything would love to connect and help.</p>
