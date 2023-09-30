@@ -1,4 +1,4 @@
-<h1><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="30"/> Hi everyone!</h1> 
+<h1><img src="https://media.giphy.com/media/3og0IAzB7lmOo2q0Ss/giphy.gif" width="30"/> Hey everyone!</h1> 
 
 <!--
 Here are some ideas to get you started:
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 - Coding
 - Poetry Writing
 
-<p>💬Ask me about anything would love to connect.</p>
+<p>💬Ask me about anything would love to connect. Always on the hunt for newer opportunities, If you know anywhere I can be a fit, do let me know.:)</p>
 <!--
 **KratiAnu/KratiAnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
